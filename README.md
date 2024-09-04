@@ -1,5 +1,8 @@
 # Multiple model estimation under perspective of random-fuzzy dual interpretation of unknown uncertainty
 
+## Introduction
+
+[Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0165168423004127)
 1. Mei, W., Xu, Y. & Liu, L. Multiple model estimation under perspective of random-fuzzy dual interpretation of unknown uncertainty. Signal Process. 217, 109338 (2024).
 
 This code was implemented using Matlab, the python version is [here](https://github.com/SongJgit/filternet).
