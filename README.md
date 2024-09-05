@@ -9,6 +9,9 @@ This code was implemented using Matlab, the python version is [here](https://git
 
 
 ## Citation
+
+If you find our paper/code helpful, please cite it!
+
 ```
 @article{MEI2024109338,
 title = {Multiple model estimation under perspective of random-fuzzy dual interpretation of unknown uncertainty},
